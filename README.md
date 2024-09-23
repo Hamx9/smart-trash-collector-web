@@ -30,4 +30,4 @@ The Smart Trash Collector is a web application designed to enhance waste managem
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/smart-trash-collector.git
+   git clone https://github.com/Hamx9/smart-trash-collector-web.git
