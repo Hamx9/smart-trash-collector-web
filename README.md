@@ -26,11 +26,14 @@ The Smart Trash Collector is a web application designed to enhance waste managem
 - A modern web browser (Chrome, Firefox, Safari, etc.)
 - Basic understanding of web technologies (HTML, CSS, JavaScript)
 
+![Annotation 2024-09-23 113954](https://github.com/user-attachments/assets/850932eb-eac4-44d8-99c8-3cd541726abd)
+
+
 ### Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Hamx9/smart-trash-collector-web.git
 
-   ![Uploading Annotation 2024-09-23 113954.png…]()
+
 
